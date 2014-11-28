@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>대한민국 구석구석</title>
+<title>대한민국 구석구석</title>
 <link rel="stylesheet" type="text/css" href="../stylesheet/index.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
 				<a href="./sign_in.jsp">로그인</a>
 			</li>
 			<li>
-				<a href="./sign_up.jsp">회원가입</a>
+				<a href="./sign_up.jsp">회원가입</a>
 			</li>
 			<li>
 				<a href="./contact.jsp">고객마당</a>
@@ -37,16 +37,16 @@
 <nav>
 	<ul class="main_nav">
 		<li>
-			<a href="./travel.jsp">어디로 갈까</a>
+			<a href="./travel.jsp">어디로 갈까</a>
 		</li>
 		<li>
-			<a href="./food.jsp">뭘 먹을까</a>			
+			<a href="./food.jsp">뭘 먹을까</a>			
 		</li>
 		<li>
 			<a href="#">로고</a>
 		</li>
 		<li>
-			<a href="./accommodation.jsp">어디서 잘까</a>
+			<a href="./accommodation.jsp">어디서 잘까</a>
 		</li>
 		<li>
 			<a href="./community.jsp">커뮤니티</a>
